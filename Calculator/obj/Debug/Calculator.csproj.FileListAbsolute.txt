@@ -1,0 +1,7 @@
+C:\Users\hotro\OneDrive\Documents\Programming\Practice Problems\C# Problems\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\hotro\OneDrive\Documents\Programming\Practice Problems\C# Problems\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\hotro\OneDrive\Documents\Programming\Practice Problems\C# Problems\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\hotro\OneDrive\Documents\Programming\Practice Problems\C# Problems\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\hotro\OneDrive\Documents\Programming\Practice Problems\C# Problems\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\hotro\OneDrive\Documents\Programming\Practice Problems\C# Problems\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\hotro\OneDrive\Documents\Programming\Practice Problems\C# Problems\Calculator\Calculator\obj\Debug\Calculator.pdb
